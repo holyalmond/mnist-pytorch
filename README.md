@@ -7,13 +7,13 @@
 - Для интерактивной работы открой ноутбук и запусти его:
 
 ```bash
-jupyter notebook MNIST_PyTorch_Classifier.ipynb
+jupyter notebook mnist_pytorch_classifier.ipynb
 ```
 
 - Для запуска из командной строки выполни:
 
 ```bash
-python MNIST_PyTorch_Classifier.py
+python mnist_pytorch_classifier.ipynb
 ```
 
 ## 📦 Установка зависимостей
